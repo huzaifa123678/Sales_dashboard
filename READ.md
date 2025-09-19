@@ -30,7 +30,7 @@ sales\_dashboard/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/sales_dashboard.git
+   git clone https://github.com/huzaifa123678/sales_dashboard.git
    cd sales_dashboard
 ````
 
@@ -57,12 +57,6 @@ sales\_dashboard/
 
 ---
 
-## 📸 Preview
-
-*(Add a screenshot of your dashboard here)*
-
----
-
 ## 🚀 Deployment
 
 This app is deployed on **Streamlit Cloud**.
@@ -85,5 +79,5 @@ You can view it live here:
 
 
 
-Would you like me to also add a **fancy clickable badge button** (green “Live Demo” button) in addition to the text link, so it looks more professional to clients?
-```
+
+
