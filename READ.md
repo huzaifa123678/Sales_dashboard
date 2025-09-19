@@ -29,15 +29,11 @@ It uses a cleaned sales dataset (`cleaned_sales_data.csv`) and provides insights
    ```bash
    streamlit run Sales_dashboard.py
    ```
-
----
-
 ## 🌐 Live Demo
 
 👉 [Click here to view the live dashboard](https://salesdashboard-7zkrgyx6zdjbf4o2jb6hvl.streamlit.app/)
 
 
----
 
 ## 📂 Project Structure
 
@@ -55,6 +51,7 @@ sales_dashboard/
 
 If you are interested in building a **custom dashboard** for your data, feel free to connect with me.
 I specialize in **Streamlit, Pandas, Matplotlib, and Seaborn** to turn raw data into interactive dashboards.
+
 
 
 
