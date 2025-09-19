@@ -1,61 +1,89 @@
 
-# Sales Dashboard
+# 📊 Sales Dashboard (Streamlit + Python)
 
-This is an interactive **Sales Dashboard** built with **Streamlit**, **Pandas**, **Matplotlib**, and **Seaborn**.  
-It uses a cleaned sales dataset (`cleaned_sales_data.csv`) and provides insights into sales performance.
+This is an interactive **Sales Dashboard** built using **Streamlit, Pandas, Matplotlib, and Seaborn**.  
+It allows users to explore sales performance, KPIs, and trends in a visually appealing way.
 
-## Features
-- ✅ Key Performance Indicators (KPIs) like Total Sales & Average Order Value  
-- ✅ Monthly Sales Trend (Line Chart)  
-- ✅ Distribution of Order Status (Pie Chart)  
-- ✅ Interactive Filters for exploring data  
+---
 
-## How to Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/<huzaifa123678>/sales_dashboard.git
-   cd sales_dashboard
-````
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   
-
-3. Run the app:
-
-   ```bash
-   streamlit run Sales_dashboard.py
-
-## 🌐 Live Demo  
+## 🌐 Live Demo
 
 👉 [Click here to view the live dashboard](https://salesdashboard-7zkrgyx6zdjbf4o2jb6hvl.streamlit.app/)
 
-
-
+---
 
 ## 📂 Project Structure
 
 ```
-sales_dashboard/
-│-- Sales_dashboard.py       # Main Streamlit app
-│-- cleaned_sales_data.csv   # Dataset
-│-- requirements.txt         # Dependencies
-│-- README.md                # Project documentation
-```
+
+sales\_dashboard/
+│-- Sales\_dashboard.py      # Main Streamlit app
+│-- cleaned\_sales\_data.csv  # Dataset
+│-- requirements.txt        # Python dependencies
+│-- README.md               # Project documentation
+
+````
 
 ---
 
-## 📧 Contact
+## ⚙️ Installation & Setup
 
-If you are interested in building a **custom dashboard** for your data, feel free to connect with me.
-I specialize in **Streamlit, Pandas, Matplotlib, and Seaborn** to turn raw data into interactive dashboards.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/sales_dashboard.git
+   cd sales_dashboard
+````
+
+2. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Streamlit app**
+
+   ```bash
+   streamlit run Sales_dashboard.py
+   ```
+
+---
+
+## 📊 Features
+
+✅ KPI summary (Total Sales, Average Sales, Orders, etc.)
+✅ Filter by year/month
+✅ Trend analysis with Matplotlib & Seaborn
+✅ Interactive dashboard using Streamlit widgets
+
+---
+
+## 📸 Preview
+
+*(Add a screenshot of your dashboard here)*
+
+---
+
+## 🚀 Deployment
+
+This app is deployed on **Streamlit Cloud**.
+You can view it live here:
+👉 [Live Dashboard](https://salesdashboard-7zkrgyx6zdjbf4o2jb6hvl.streamlit.app/)
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* Streamlit
+
+---
 
 
 
 
 
-
-
+Would you like me to also add a **fancy clickable badge button** (green “Live Demo” button) in addition to the text link, so it looks more professional to clients?
+```
